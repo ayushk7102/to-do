@@ -1,5 +1,5 @@
 # to-do
-Simple to-do list and activity tracker based in command line
+Simple to-do list and activity tracker based in the command line
 
 Commands recognised:
 
