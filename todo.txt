@@ -1,4 +1,8 @@
-Download and complete MATH PDE problem sets 
+Download and complete MATH PDE problem sets
 Revise PPT ELE1051 delta-star transformations
-SMS Piano sir about fee payment 
-CSE 1051 HW: Algorithm flowchart of surface area & volume of sphere, cone, cylinder 
+SMS Piano sir about fee payment
+CSE 1051 HW: Algorithm flowchart of surface area & volume of sphere, cone, cylinder
+MRM Rover Assignment submit before 1159 pm
+Add strike task method in todo.java
+Do ELE 1051 hw quizhello world 
+nana 
