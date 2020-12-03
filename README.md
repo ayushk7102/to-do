@@ -9,3 +9,4 @@ $task "New task" : Creates and adds new task to todo.txt in numbered order of ad
 
 $clear : Clears current list of tasks in todo.txt
 
+$strike <task_number_in_$todo> : Clears specific task 
